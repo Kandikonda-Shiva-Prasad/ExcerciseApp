@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExcerciseApp</string>
+
+    <string name="five_day">5 day challenge is a great experience for newbiews. It covers all kind of excercise Shoulder, Legs and lot more. It will cover up the whole body exercise so user can gain more strenghth.
+This is a good exercise for the new people and for every one.</string>
+
+    <string name="Seven_day">7 day challenge is a great experience for newbiews. It covers all kind of excercise Shoulder, Legs and lot more. It will cover up the whole body exercise so user can gain more strenghth.
+This is a good exercise for the new people and for every one.</string>
+
+    <string-array name="Gender">
+
+        <item>Female</item>
+        <item>Male</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

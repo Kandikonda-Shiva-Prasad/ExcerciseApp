@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848145290441",
+    "project_id": "exerciseapp-8f107",
+    "storage_bucket": "exerciseapp-8f107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848145290441:android:a1021f3161fb995232a918",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.w9527290"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848145290441-tql6mjhvgt41443u8lk07i97a2tnu1sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegGDma_5mytQNia7erv-X0QQqx_v9nqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848145290441-tql6mjhvgt41443u8lk07i97a2tnu1sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
