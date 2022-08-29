@@ -36,6 +36,7 @@ public class Task2 extends AppCompatActivity {
         editor.commit();
 
         textView = findViewById(R.id.task2et);
+        textView.setText(" Welcome " + UserName);
         Intent iin= getIntent();
         Bundle b = iin.getExtras();
         recyclerView = findViewById(R.id.rectask2);

@@ -40,6 +40,7 @@ public class Task1 extends AppCompatActivity {
 
 
         textView = findViewById(R.id.task1et);
+        textView.setText(UserName);
         Intent iin= getIntent();
         Bundle b = iin.getExtras();
         recyclerView = findViewById(R.id.rectask1);
